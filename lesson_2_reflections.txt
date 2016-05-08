@@ -1,1 +1,4 @@
-hhhhhhh
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can add just the files associated with one particular change to the staging,
+and when ready commit those changes to the git repository.  Ha
