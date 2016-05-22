@@ -1,4 +1,17 @@
-How can you use the staging area to make sure you have one commit per logical change?
+Q. How can you use the staging area to make sure you have one commit per logical change?
 
 you can add just the files associated with one particular change to the staging,
-and when ready commit those changes to the git repository.  Ha
+and when ready commit those changes to the git repository.  
+
+Q. What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+Branches can create a seperate area for experimental work and serves as a path to the current master 
+program.  Branches isolate testing and therefore don't affect the live production.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+It shows all the various versions of a master program and how they relate to master.  It shows a history of 
+commits as well.
+
+ 
